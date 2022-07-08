@@ -1,5 +1,5 @@
 # What is an OISC?
-One Instruction Set Computer(OISC) is an RISC(Reduced Set Computer) - Computer with small number of instructions.
+One Instruction Set Computer(OISC) is an RISC(Reduced Instuction Set Computer) - Computer with small number of instructions.
 # List of my OISCs
 In all of my OISCs variables starts at zero
 * Addjump ```a;b;``` - add 1 to variable ```a``` and goto 1-indexed command ```b```. It was inprised by FlipJump.
